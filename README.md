@@ -1,2 +1,2 @@
 # 3dsDict
-FrenchDictionarry for 3ds
+French dictionary for 3ds 
